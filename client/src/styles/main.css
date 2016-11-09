@@ -1,0 +1,45 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  padding: 20px;
+  margin: 0;
+}
+.component {
+  padding: 20px;
+}
+h2 {
+  font-weight: normal;
+}
+.field {
+  margin-bottom: 30px;
+}
+.field label {
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #bbb;
+  letter-spacing: 1px;
+  display: block;
+  margin-bottom: 10px;
+}
+.field input {
+  padding: 10px;
+  border: 0;
+  background-color: #eee;
+  font-size: 20px;
+  width: 400px;
+  max-width: 90%;
+}
+.field input:focus {
+  background-color: #f0f0f0;
+  box-shadow: 0 0 3px #aaa;
+} 
+button {
+  background-color: #999;
+  color: #fff;
+  border: 0;
+  font-size: 20px;
+  padding: 10px 30px;
+}
