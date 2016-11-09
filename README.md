@@ -2,6 +2,14 @@
 
 > Api first boilerplate with restify/mongo on the server side and vue 2 (and plugins: vuex, vue-resource, vue-router, vue-notifications)
 
+# Features
+
+- Signup
+- Login
+- Password forgotter: no email send, you need to complete the sendEmail method in api/src/utils with the service you choose to use
+- Logout
+- Update profile
+
 ## Build Setup
 
 ``` bash
