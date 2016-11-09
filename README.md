@@ -1,8 +1,8 @@
-# morevue
+## morevue
 
 > Api first boilerplate with restify/mongo on the server side and vue 2 (and plugins: vuex, vue-resource, vue-router, vue-notifications)
 
-# Features
+## Features
 
 - Signup
 - Login
